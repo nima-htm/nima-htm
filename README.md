@@ -1,53 +1,52 @@
-# Hi there, I'm [Nima Hassani] 👋
+# 𝔽𝕦𝕝𝕝-𝕊𝕥𝕒𝕔𝕜 𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣
 
-### 🚀 Full-Stack Developer & Systems Enthusiast
-
-I am a passionate software developer and student focused on building robust backend APIs, interactive frontends, and exploring low-level systems. I thrive in terminal-based environments and love solving complex optimization problems.
+I'm a full-stack developer and system enthusiast who loves building responsive frontends, scalable backend APIs, and exploring low-level environments. I spend most of my time tweaking configurations in the terminal or shipping projects.
 
 ---
 
 ### 🧰 Tech Stack & Tools
 
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | React, Next.js, Flutter, TailwindCSS |
-| **Backend & DB** | Node.js, Express, Sequelize, Prisma, PostgreSQL, REST APIs |
-| **Languages** | JavaScript, TypeScript, Rust, VHDL, Bash |
-| **Tools & OS** | Linux, Fish Shell, Git, SSH, Docker, systemd |
+#### 🌐 Frontend & Mobile
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### ⚙️ Backend & Systems
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-gray?style=for-the-badge&logo=intel&logoColor=white)
+
+#### 🔧 Tools & OS
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Terminal](https://img.shields.io/badge/Fish_Shell-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 📈 GitHub Stats
+### 📊 Dev Metrics
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-### 📁 Featured Projects
-
-#### 🏪 1. iShop E-Commerce Mobile App
-* **Description:** A clean, responsive e-commerce application built to deliver a seamless shopping experience.
-* **Stack:** Flutter, Dart
-* **Key Feature:** Smooth state management and offline-first capabilities.
-* *🌐 [View Repository](https://github.com/YOUR_GITHUB_USERNAME/ishop)*
-
-#### 📊 2. Financial & Leasing API
-* **Description:** A secure, role-based access control (RBAC) backend service handling automated leasing workflows and database migrations.
-* **Stack:** Node.js, Sequelize CLI, PostgreSQL
-* **Key Feature:** Structured relational database schemas with robust data validation.
-* *🌐 [View Repository](https://github.com/YOUR_GITHUB_USERNAME/parsian-leasing-api)*
-
-#### 📉 3. Stock Market Analysis Dashboard
-* **Description:** An interactive dashboard designed to track and analyze market financial data, displaying EPS and P/E ratios.
-* **Stack:** React, ApexCharts, ag-grid
-* **Key Feature:** High-performance data grids with real-time charting capabilities.
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="175" alt="Streak Stats" />
+</p>
 
 ---
 
-### 📬 Connect with Me
+### 📁 Spotlight Projects
 
-* **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-* **Email:** your.email@example.com
+* **[iShop Mobile App](https://github.com/YOUR_GITHUB_USERNAME/ishop)** - A smooth, offline-ready e-commerce client built using Flutter.
+* **[Leasing Backend API](https://github.com/YOUR_GITHUB_USERNAME/parsian-leasing-api)** - A secure, production-grade API with strict role-based access controls and automatic PostgreSQL migrations.
+* **[Stock Analysis Dashboard](https://github.com/YOUR_GITHUB_USERNAME/your-repo-name)** - High-performance React view displaying dynamic charts for EPS and P/E metrics.
+
+---
+
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-718096?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 "The best way to predict the future is to implement it." 🚀
