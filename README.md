@@ -1,12 +1,16 @@
 <p align="center">
   <img src="a905900b480260cb5cb5267fe54f2383.png" height="175" />
 
-  [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nimahtm)
-  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
-  ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 </p>
+<div align="center">
 
+  [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nimahtm)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nimahassani84@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nimahassanihtm/)
+
+
+</div>
 
 
 
@@ -17,7 +21,7 @@ I'm a developer who loves building and understanding - spending most of my time 
 
 
 
-### 🧰 Tech Stack & Tools
+### Tech Stack
 
 
 #### Linux
@@ -52,23 +56,8 @@ I'm a developer who loves building and understanding - spending most of my time 
 ### 📊 Dev Metrics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="175" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nima-htm&show_icons=true&theme=tokyonight&include_all_commits=true" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nima-htm&theme=tokyonight" height="175" alt="Streak Stats" />
 </p>
 
----
 
-### 📁 Spotlight Projects
-
-* **[iShop Mobile App](https://github.com/YOUR_GITHUB_USERNAME/ishop)** - A smooth, offline-ready e-commerce client built using Flutter.
-* **[Leasing Backend API](https://github.com/YOUR_GITHUB_USERNAME/parsian-leasing-api)** - A secure, production-grade API with strict role-based access controls and automatic PostgreSQL migrations.
-* **[Stock Analysis Dashboard](https://github.com/YOUR_GITHUB_USERNAME/your-repo-name)** - High-performance React view displaying dynamic charts for EPS and P/E metrics.
-
----
-
-### 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-718096?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-"The best way to predict the future is to implement it." 🚀
