@@ -46,18 +46,24 @@ I'm a developer who loves building and understanding - spending most of my time 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
-#### 🔧 Tools
+#### Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 📊 Dev Metrics
+### Metrics
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nima-htm&show_icons=true&theme=tokyonight&include_all_commits=true" height="175" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nima-htm&theme=tokyonight" height="175" alt="Streak Stats" />
 </p>
+
+---
+I also play games, send request to have fun :
+
+[![Linux](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199275730115/)
+
 
 
